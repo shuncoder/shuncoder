@@ -30,6 +30,9 @@ Hello everyone, I'm Hoang Xuan Vinh, I'm currently a bachelor of computer scienc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=quan_li_luong_nhan_vien&theme=dark" />
 </a>
-
+<a href="https://github.com/shuncoder/bai_tap_lon">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=bai_tap_lon&theme=dark" />
+</a>
 
 
