@@ -22,9 +22,9 @@ Hello everyone, I'm Hoang Xuan Vinh, I'm currently a bachelor of computer scienc
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Find-distance&theme=merko" />
 </a>
 
-<a href="https://github.com/shuncoder/Shun_Coder">
+<a href="https://github.com/shuncoder/Angry_Bird_Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Shun_Coder&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Angry_Bird_Python&theme=gruvbox" />
 </a>    
 <a href="https://github.com/shuncoder/quan_li_luong_nhan_vien">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
