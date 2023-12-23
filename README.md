@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 Hello everyone, I'm Hoang Xuan Vinh, I'm currently a bachelor of computer science from a Hanoi University of Civil Engineering
-## 📫 How to reach me: 
+![icon-user](https://simp4.jpg.church/man.png) About Me:
 
 [![faceboook](https://i.stack.imgur.com/gVE0j.png) Facebook](https://www.facebook.com/shuncoder/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shuncoder/)
 
