@@ -1,10 +1,10 @@
-### WELCOME TO MY PAGE 👋👋👋
-Hello everyone, I'm Hoang Xuan Vinh, I'm currently a bachelor of computer science from a Hanoi University of Civil Engineering
+## WELCOME TO MY PAGE 👋👋👋
+Hello everyone, I'm 'Hoang Xuan Vinh', I'm currently a bachelor of computer science from a Hanoi University of Civil Engineering
 
 ![icon-user](https://simp4.jpg.church/man.png) About Me:
 
-[![faceboook](https://example.com/facebook-icon.png) Facebook](https://www.facebook.com/shuncoder/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shuncoder/)
+[![Faceboook]()](https://www.facebook.com/shuncoder/)
+[![GitHub]() GitHub](https://github.com/shuncoder/)
 
 [![Shun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuncoder)](https://github.com/shuncoder/github-readme-stats)
 
