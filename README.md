@@ -1,9 +1,9 @@
 ## WELCOME TO MY PAGE 👋👋👋
 Hello everyone, I'm `Hoang Xuan Vinh`, I'm currently a bachelor of computer science from a Hanoi University of Civil Engineering
 
-![icon-user](https://simp4.jpg.church/man.png) `About Me:`
+`About Me:`
 
-# ![icon-user](https://simp4.jpg.church/network.png) Socials:
+# Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shuncoder)
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shuncoder)
 
