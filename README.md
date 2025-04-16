@@ -76,10 +76,10 @@ Hello everyone, I'm `Hoang Xuan Vinh`, I'm currently a bachelor of computer scie
 
 [![Shun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuncoder)](https://github.com/shuncoder/github-readme-stats)
 
-<a href="https://github.com/shuncoder/Object-Oriented-Programming/">
+<a href="https://github.com/shuncoder/Student-Manager-WebApi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Object-Oriented-Programming&theme=radical" />
 </a> 
-<a href="https://github.com/shuncoder/Use-information/">
+<a href="https://github.com/shuncoder/Angry_Bird_Python">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Use-information&theme=radical" />
 </a>    
 <a href="https://github.com/shuncoder/Find-distance">
