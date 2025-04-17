@@ -9,7 +9,14 @@ Hello everyone, I'm `Hoang Xuan Vinh`, I'm currently a bachelor of computer scie
 <a href="https://www.php.net/manual/en/index.php"><img src="./shun/php.png" alt="php" height="100" title="PHP documentation"></a>
 <a href="https://docs.oracle.com/en/java/"><img src="./shun/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./shun/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-
+<a href="https://dotnet.microsoft.com/en-us/learn"><img src="./shun/DotNet.svg" alt="dotnet" height="100" title=".NET documentation"></a>
+<a href="https://www.mongodb.com/docs/"><img src="./shun/MongoDB.svg" alt="mongodb" height="100" title="MongoDB documentation"></a>
+<a href="https://dev.mysql.com/doc/"><img src="./shun/MySQL-Dark.svg" alt="mysql" height="100" title="MySQL documentation"></a>
+<a href="https://docs.npmjs.com/"><img src="./shun/Npm-Dark.svg" alt="npm" height="100" title="NPM documentation"></a>
+<a href="https://learning.postman.com/docs/introduction/overview/"><img src="./shun/Postman.svg" alt="postman" height="100" title="Postman documentation"></a>
+<a href="https://www.linux.org/forums/#linux-tutorials.122"><img src="./shun/Linux-Dark.svg" alt="linux" height="100" title="Linux documentation"></a>
+<a href="https://ubuntu.com/tutorials"><img src="./shun/ubuntu.svg" alt="ubuntu" height="100" title="Ubuntu documentation"></a>
+<a href="https://www.latex-project.org/help/documentation/"><img src="./shun/LaTeX-Dark.svg" alt="latex" height="100" title="LaTeX documentation"></a>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
