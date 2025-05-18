@@ -110,8 +110,9 @@ Hello everyone, I'm `Hoang Xuan Vinh`, I'm currently a bachelor of computer scie
 <a href="https://github.com/shuncoder/Find-distance">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Find-distance&theme=merko" />
 </a>
-<a href="https://github.com/shuncoder/Angry_Bird_Python">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Angry_Bird_Python&theme=gruvbox" />
+<a href="https://github.com/shuncoder/Natural-Language-Processing---LSTM">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Natural-Language-Processing---LSTM
+&theme=gruvbox" />
 </a>    
 <a href="https://github.com/shuncoder/quan_li_luong_nhan_vien">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=quan_li_luong_nhan_vien&theme=dark" />
