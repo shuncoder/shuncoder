@@ -101,26 +101,43 @@ Hello everyone, I'm `Hoang Xuan Vinh`, I'm currently a bachelor of computer scie
 
 [![Shun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuncoder)](https://github.com/shuncoder/github-readme-stats)
 
-<a href="https://github.com/shuncoder/Student-Manager-WebApi">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Student-Manager-WebApi&theme=radical" />
-</a> 
-<a href="https://github.com/shuncoder/Angry_Bird_Python">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Angry_Bird_Python&theme=radical" />
-</a>    
-<a href="https://github.com/shuncoder/Find-distance">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Find-distance&theme=merko" />
-</a>
-<a href="https://github.com/shuncoder/Natural-Language-Processing---LSTM">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Natural-Language-Processing---LSTM
-&theme=gruvbox" />
-</a>    
-<a href="https://github.com/shuncoder/quan_li_luong_nhan_vien">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=quan_li_luong_nhan_vien&theme=dark" />
-</a>
-<a href="https://github.com/shuncoder/BankAccount">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=BankAccount&theme=dark" />
-</a>
-</a>
-<a href="https://github.com/shuncoder/ShunCoder">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=ShunCoder&theme=dark" />
-</a>
+# My Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/shuncoder/Student-Manager-WebApi">
+        <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Student-Manager-WebApi&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/shuncoder/Angry_Bird_Python">
+        <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Angry_Bird_Python&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shuncoder/Find-distance">
+        <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Find-distance&theme=merko" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shuncoder/Natural-Language-Processing---LSTM">
+        <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Natural-Language-Processing---LSTM&theme=merko" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shuncoder/kitchen-manager">
+        <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=kitchen-manager&theme=gruvbox" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shuncoder/Registration_Shun">
+        <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=shuncoder&repo=Registration_Shun&theme=gruvbox" />
+      </a>
+    </td>
+  </tr>
+</table>
